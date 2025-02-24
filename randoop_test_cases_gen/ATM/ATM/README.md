@@ -28,3 +28,7 @@ Go to C:\Users\91950\Downloads\test-case-gen-assess\randoop_test_cases_gen\ATM\A
 Right click to open with any browser and you can see the test reports.
 
 View Reports in target/site/clover/index.html.
+
+![img_3.png](img_3.png)
+
+By default the target folder will not be added to github makesure you build when you clone this repo
