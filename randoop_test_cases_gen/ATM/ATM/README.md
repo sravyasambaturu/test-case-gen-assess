@@ -41,8 +41,11 @@ for mutation testing add the below plugin in pom.xml https://pitest.org/quicksta
         <version>1.5.2</version>
     </plugin>
 
+
 mvn test-compile org.pitest:pitest-maven:mutationCoverage
 
 ![img_4.png](img_4.png)
 ![img_5.png](img_5.png)
 ![img_6.png](img_6.png)
+
+![img_7.png](img_7.png)
