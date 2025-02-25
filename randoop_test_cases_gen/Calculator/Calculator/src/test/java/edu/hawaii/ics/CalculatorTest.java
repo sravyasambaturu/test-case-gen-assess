@@ -1,5 +1,6 @@
-package org.example;
+package edu.hawaii.ics;
 
+import edu.hawaii.ics.Calculator;
 import org.junit.Before;
 import org.junit.Test;
 
